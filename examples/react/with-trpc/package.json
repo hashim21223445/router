@@ -19,7 +19,7 @@
     "@trpc/react-query": "^10.45.2",
     "@trpc/server": "^10.45.2",
     "redaxios": "^0.5.1",
-    "express": "^4.19.2",
+    "express": "^4.22.0",
     "immer": "^10.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
