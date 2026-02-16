@@ -22,7 +22,7 @@
     "@tanstack/start": "^1.46.4",
     "@typescript-eslint/parser": "^7.18.0",
     "@vitejs/plugin-react": "^4.3.1",
-    "@convex-dev/react-query": "0.0.0-alpha.5",
+    "@convex-dev/react-query": "0.1.0",
     "concurrently": "^8.2.2",
     "convex": "^1.13.2",
     "isbot": "^5.1.14",
